@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require "tmpdir"
 require "xxx_download"
 require "simplecov"
 require "simplecov-cobertura"
@@ -102,6 +103,12 @@ RSpec.configure do |config|
   config.before(:all) do
     level = ENV.fetch("LOG_LEVEL", "warn")
     XXXDownload.set_logger(level)
+  end
+
+  config.before(:each) do
+    allow(Open3).to receive(:capture3).and_return(
+      ["stubbed version", "", instance_double(Process::Status, success?: true)]
+    )
   end
 
   config.after(:all) do

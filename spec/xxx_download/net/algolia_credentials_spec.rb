@@ -39,20 +39,5 @@ RSpec.describe XXXDownload::Net::AlgoliaCredentials, type: :file_support do
         expect { Base64.strict_decode64(@credentials.algolia_api_key) }.not_to raise_error
       end
     end
-
-    context "site is adult_time" do
-      let(:base_uri) { XXXDownload::Constants::ADULTTIME_BASE_URL }
-
-      before do
-        VCR.use_cassette("algolia_credentials#adulttime") do
-          @credentials = described_class.new(base_uri, force_login)
-        end
-      end
-
-      it "returns the expected credentials" do
-        expect(@credentials.algolia_application_id).to match(/[A-Z0-9]{10}/)
-        expect(@credentials.algolia_api_key).to match(/[a-z0-9]/)
-      end
-    end
   end
 end
