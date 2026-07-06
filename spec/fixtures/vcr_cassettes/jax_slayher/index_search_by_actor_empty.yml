@@ -1,0 +1,24 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/get_model/99999999
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: 'null'
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+recorded_with: VCR 6.3.1

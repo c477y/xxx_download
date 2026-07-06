@@ -20,6 +20,7 @@ module XXXDownload
         "cumlouder"     => "CumLouder",
         "evilangel"     => "EvilAngel",
         "houseofyre"    => "HouseOFyre",
+        "jaxslayher"    => "JaxSlayher",
         "julesjordan"   => "JulesJordan",
         "loveherfilms"  => "LoveHerFilms",
         "manuelferrara" => "ManuelFerrara",
@@ -50,6 +51,7 @@ module XXXDownload
         evilangel
         goodporn
         houseofyre
+        jaxslayher
         julesjordan
         manuelferrara
         newsensations
@@ -70,6 +72,7 @@ module XXXDownload
       ].freeze
 
       COOKIE_REQUIRED_TO_DOWNLOAD_SITE = %w[
+        jaxslayher
         loveherfilms
       ].freeze
 

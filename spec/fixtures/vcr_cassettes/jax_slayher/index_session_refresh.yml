@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/get_video/6619f4a3-8ca7-49cc-9f1d-5014e54da6ef
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Content-Type:
+      - text/html
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/get_video/6619f4a3-8ca7-49cc-9f1d-5014e54da6ef
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '[{"id":214,"title":"That Legendary Ass","folder":"6619f4a3-8ca7-49cc-9f1d-5014e54da6ef","content_type":"video","content_count":153,"released":"y","release_date":"2025-12-18T11:59:13Z","is_thumbed":"n","model_info":null,"models":[{"id":148,"name":"Richelle
+        Ryan","slug":"richelle_ryan","is_thumbed":"n","release_date":"2025-12-18","released":"y"},{"id":4,"name":"Jax
+        Slayher","slug":"jax_slayher","is_thumbed":"n","release_date":"2023-06-15","released":"y"}],"videos":[{"file_name":"4k_that_legendary_ass.mp4","quality_rank":1,"file_size":"3.20
+        GB"},{"file_name":"hd_that_legendary_ass.mp4","quality_rank":2,"file_size":"1.73
+        GB"},{"file_name":"sd_that_legendary_ass.mp4","quality_rank":3,"file_size":"948.89
+        MB"},{"file_name":"mobile_that_legendary_ass.mp4","quality_rank":5,"file_size":"399.39
+        MB"}],"attached_gallery_id":0,"photo_count":null,"formatted_date":"dec 18/2025","tags":[{"id":112,"tag_name":"ass","tag_type":"video"},{"id":78,"tag_name":"big
+        ass","tag_type":"general"},{"id":53,"tag_name":"big tits","tag_type":"general"},{"id":12,"tag_name":"blowjob","tag_type":"video"},{"id":135,"tag_name":"body
+        suit","tag_type":"general"},{"id":15,"tag_name":"cowgirl","tag_type":"video"},{"id":91,"tag_name":"cumshot","tag_type":"video"},{"id":17,"tag_name":"doggystyle","tag_type":"video"},{"id":187,"tag_name":"legs
+        together","tag_type":"video"},{"id":52,"tag_name":"milf","tag_type":"general"},{"id":14,"tag_name":"missionary","tag_type":"video"},{"id":27,"tag_name":"reverse
+        cowgirl","tag_type":"video"},{"id":56,"tag_name":"shaved pussy","tag_type":"general"},{"id":171,"tag_name":"spoon","tag_type":"video"},{"id":115,"tag_name":"stand
+        and carry","tag_type":"video"},{"id":73,"tag_name":"titty fucking","tag_type":"video"},{"id":38,"tag_name":"trailer","tag_type":"video"}],"attached_folder":null,"up_votes":13,"down_votes":2,"streaming":1},[]]'
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+recorded_with: VCR 6.3.1

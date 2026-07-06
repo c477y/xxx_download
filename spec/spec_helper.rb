@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require "open3"
 require "tmpdir"
 require "xxx_download"
 require "simplecov"

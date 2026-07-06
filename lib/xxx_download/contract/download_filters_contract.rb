@@ -15,6 +15,7 @@ module XXXDownload
         "cumlouder",
         "evilangel",
         "houseofyre", # needs fixing
+        "jaxslayher",
         "julesjordan",
         "loveherfilms", # needs fixing
         "manuelferrara",

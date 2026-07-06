@@ -1,0 +1,102 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/updates/2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '[[{"id":222,"title":"A True Creampie Lover","folder":"447d513b-c650-485b-bec3-5ab5e96f28bb","content_type":"video","content_count":300,"released":"y","release_date":"2026-02-23T17:13:18Z","is_thumbed":"n","model_info":null,"models":[{"id":156,"name":"Coral
+        Jade","slug":"coral_jade","is_thumbed":"n","release_date":"2026-02-23","released":"y"},{"id":4,"name":"Jax
+        Slayher","slug":"jax_slayher","is_thumbed":"n","release_date":"2023-06-15","released":"y"}],"videos":null,"attached_gallery_id":0,"photo_count":null,"formatted_date":"feb
+        23/2026","tags":null,"attached_folder":null,"up_votes":13,"down_votes":0,"streaming":1},{"id":221,"title":"Natural
+        E Cups","folder":"056eca1c-c42e-4035-bff4-6d6c8121f4dc","content_type":"video","content_count":213,"released":"y","release_date":"2026-02-14T02:23:33Z","is_thumbed":"n","model_info":null,"models":[{"id":155,"name":"Sami
+        Hayes","slug":"sami_hayes","is_thumbed":"n","release_date":"2026-02-14","released":"y"},{"id":4,"name":"Jax
+        Slayher","slug":"jax_slayher","is_thumbed":"n","release_date":"2023-06-15","released":"y"}],"videos":null,"attached_gallery_id":0,"photo_count":null,"formatted_date":"feb
+        14/2026","tags":null,"attached_folder":null,"up_votes":16,"down_votes":0,"streaming":1}],175]'
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/get_video/447d513b-c650-485b-bec3-5ab5e96f28bb
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '[{"id":222,"title":"A True Creampie Lover","folder":"447d513b-c650-485b-bec3-5ab5e96f28bb","content_type":"video","content_count":300,"released":"y","release_date":"2026-02-23T17:13:18Z","is_thumbed":"n","model_info":null,"models":[{"id":156,"name":"Coral
+        Jade","slug":"coral_jade","is_thumbed":"n","release_date":"2026-02-23","released":"y"},{"id":4,"name":"Jax
+        Slayher","slug":"jax_slayher","is_thumbed":"n","release_date":"2023-06-15","released":"y"}],"videos":[{"file_name":"4k_a_true_creampie_lover.mp4","quality_rank":1,"file_size":"6.34
+        GB"},{"file_name":"hd_a_true_creampie_lover.mp4","quality_rank":2,"file_size":"3.41
+        GB"},{"file_name":"sd_a_true_creampie_lover.mp4","quality_rank":3,"file_size":"1.92
+        GB"},{"file_name":"mobile_a_true_creampie_lover.mp4","quality_rank":5,"file_size":"790.19
+        MB"}],"attached_gallery_id":0,"photo_count":null,"formatted_date":"feb 23/2026","tags":[{"id":48,"tag_name":"anal
+        cowgirl","tag_type":"video"},{"id":24,"tag_name":"anal missionary","tag_type":"video"},{"id":26,"tag_name":"anal
+        reverse cowgirl","tag_type":"video"},{"id":179,"tag_name":"anal spoon","tag_type":"video"},{"id":31,"tag_name":"anal","tag_type":"general"},{"id":43,"tag_name":"ass
+        licking","tag_type":"video"},{"id":112,"tag_name":"ass","tag_type":"video"},{"id":53,"tag_name":"big
+        tits","tag_type":"general"},{"id":12,"tag_name":"blowjob","tag_type":"video"},{"id":120,"tag_name":"cowgirl
+        creampie","tag_type":"general"},{"id":15,"tag_name":"cowgirl","tag_type":"video"},{"id":55,"tag_name":"creampie","tag_type":"general"},{"id":55,"tag_name":"creampie","tag_type":"video"},{"id":17,"tag_name":"doggystyle","tag_type":"video"},{"id":23,"tag_name":"fingering","tag_type":"video"},{"id":131,"tag_name":"flexible","tag_type":"video"},{"id":66,"tag_name":"kissing","tag_type":"video"},{"id":14,"tag_name":"missionary","tag_type":"video"},{"id":76,"tag_name":"natural
+        tits","tag_type":"general"},{"id":11,"tag_name":"pussy eating","tag_type":"video"},{"id":27,"tag_name":"reverse
+        cowgirl","tag_type":"video"},{"id":36,"tag_name":"round ass","tag_type":"general"},{"id":56,"tag_name":"shaved
+        pussy","tag_type":"general"},{"id":171,"tag_name":"spoon","tag_type":"video"},{"id":115,"tag_name":"stand
+        and carry","tag_type":"video"},{"id":102,"tag_name":"tattooed","tag_type":"general"},{"id":38,"tag_name":"trailer","tag_type":"video"}],"attached_folder":null,"up_votes":13,"down_votes":0,"streaming":1},[]]'
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+- request:
+    method: get
+    uri: https://jaxslayher.com/m_a/get_video/056eca1c-c42e-4035-bff4-6d6c8121f4dc
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '[{"id":221,"title":"Natural E Cups","folder":"056eca1c-c42e-4035-bff4-6d6c8121f4dc","content_type":"video","content_count":213,"released":"y","release_date":"2026-02-14T02:23:33Z","is_thumbed":"n","model_info":null,"models":[{"id":155,"name":"Sami
+        Hayes","slug":"sami_hayes","is_thumbed":"n","release_date":"2026-02-14","released":"y"},{"id":4,"name":"Jax
+        Slayher","slug":"jax_slayher","is_thumbed":"n","release_date":"2023-06-15","released":"y"}],"videos":[{"file_name":"4k_natural_e_cups.mp4","quality_rank":1,"file_size":"4.51
+        GB"},{"file_name":"hd_natural_e_cups.mp4","quality_rank":2,"file_size":"2.42
+        GB"},{"file_name":"sd_natural_e_cups.mp4","quality_rank":3,"file_size":"1.30
+        GB"},{"file_name":"mobile_natural_e_cups.mp4","quality_rank":5,"file_size":"561.86
+        MB"}],"attached_gallery_id":0,"photo_count":null,"formatted_date":"feb 14/2026","tags":[{"id":72,"tag_name":"ball
+        sucking","tag_type":"video"},{"id":78,"tag_name":"big ass","tag_type":"general"},{"id":53,"tag_name":"big
+        tits","tag_type":"general"},{"id":12,"tag_name":"blowjob","tag_type":"video"},{"id":15,"tag_name":"cowgirl","tag_type":"video"},{"id":55,"tag_name":"creampie","tag_type":"general"},{"id":55,"tag_name":"creampie","tag_type":"video"},{"id":17,"tag_name":"doggystyle","tag_type":"video"},{"id":125,"tag_name":"full
+        nelson","tag_type":"video"},{"id":264,"tag_name":"grabbing breasts","tag_type":"video"},{"id":50,"tag_name":"lingerie","tag_type":"general"},{"id":14,"tag_name":"missionary","tag_type":"video"},{"id":155,"tag_name":"pawg","tag_type":"general"},{"id":11,"tag_name":"pussy
+        eating","tag_type":"video"},{"id":27,"tag_name":"reverse cowgirl","tag_type":"video"},{"id":36,"tag_name":"round
+        ass","tag_type":"general"},{"id":56,"tag_name":"shaved pussy","tag_type":"general"},{"id":247,"tag_name":"spoon
+        creampie","tag_type":"general"},{"id":171,"tag_name":"spoon","tag_type":"video"},{"id":115,"tag_name":"stand
+        and carry","tag_type":"video"},{"id":109,"tag_name":"tan lines","tag_type":"general"},{"id":106,"tag_name":"thick","tag_type":"general"},{"id":62,"tag_name":"tight
+        pussy","tag_type":"general"},{"id":73,"tag_name":"titty fucking","tag_type":"video"},{"id":38,"tag_name":"trailer","tag_type":"video"}],"attached_folder":null,"up_votes":16,"down_votes":0,"streaming":1},[]]'
+    http_version:
+  recorded_at: Mon, 06 Jul 2026 12:00:00 GMT
+recorded_with: VCR 6.3.1
